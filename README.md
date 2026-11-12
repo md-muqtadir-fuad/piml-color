@@ -62,6 +62,7 @@ python scripts/06_build_dye_hue_mapping.py
 | `68_statistics.py` | Descriptive statistics |
 | `69_review_checks.py` | Calibration, identifiability and strata checks |
 | `70_review_experiments.py --only B S R` | Blend control, KM simulation, repeated CV |
+| `71_nested_and_sensitivity.py --only N I F C T` | Fully nested selection, identifiability variants, forward colour error, interval coverage across repeats, cotton-only subset |
 
 **3. Figures and tables.** `63_paper_figures.py` and `65_paper_tables.py` need the results of script 60 (`e00b e02 e08 e09 e12 e16 t01`) and script 61.
 
