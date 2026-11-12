@@ -1,0 +1,8 @@
+# Core pipeline (scripts 00, 60, 63-65, 68-70). Versions used for the paper (Python 3.11).
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.15.3
+scikit-learn==1.6.1
+matplotlib==3.11.0
+colour-science==0.4.7
+joblib==1.5.3
