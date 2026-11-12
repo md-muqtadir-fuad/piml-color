@@ -73,7 +73,7 @@ Md. Muqtadir Fuad, Md. Istiak Adnan, Md. Atiqur Rahman and Ridwan Al Aziz. *A Ph
 ```bibtex
 @misc{fuad2026physics,
   title         = {A Physics-Informed Hybrid Inverse Machine Learning Framework for High-Dimensional Sparse Recipe Reconstruction},
-  author        = {Fuad, Md. Muqtadir and Adnan, Md. Istiak and Rahman, Md. Atiqur and Al Aziz, Ridwan},
+  author        = {Fuad, Md. Muqtadir and Adnan, Md. Istiak and Rahman, Md. Atiqur and Aziz, Ridwan Al},
   year          = {2026},
   eprint        = {2610.14097},
   archivePrefix = {arXiv},
