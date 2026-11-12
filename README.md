@@ -1,4 +1,5 @@
 # Physics-informed hybrid inverse recipe reconstruction
+[![DOI](https://zenodo.org/badge/1455045202.svg)](https://doi.org/10.5281/zenodo.24157856)
 
 Code for the manuscript *A Physics-Informed Hybrid Inverse Machine Learning Framework for High-Dimensional Sparse Recipe Reconstruction*.
 
