@@ -1,0 +1,98 @@
+[
+  {
+    "path": "data\\processed\\master_recipe_quality.csv",
+    "exists": true,
+    "size_bytes": 165752,
+    "sha256": "7e0cf2a6907c4376f9e860e18eb31ef3da7a4ca19d83985ce224733cd85f3861"
+  },
+  {
+    "path": "data\\processed\\master_recipe_quality_spectral.csv",
+    "exists": true,
+    "size_bytes": 444873,
+    "sha256": "59a8a0961bcb75b9ab765fdafde5ff4cb95c7785f415ce96c88f755e674ee5be"
+  },
+  {
+    "path": "data\\processed\\dye_vector_matrix.csv",
+    "exists": true,
+    "size_bytes": 57710,
+    "sha256": "a77c1dc75ae0a86324acf9cb5f63c6d8216bb1c9c2c60c983db795393ccdaf84"
+  },
+  {
+    "path": "data\\processed\\target_reflectance_matrix.csv",
+    "exists": true,
+    "size_bytes": 43454,
+    "sha256": "8a13f791dd5d93c2707aff3c6e3d7d4f35bbf2de71222e1f98e2a8e7ce691d61"
+  },
+  {
+    "path": "data\\processed\\target_ks_matrix.csv",
+    "exists": true,
+    "size_bytes": 74610,
+    "sha256": "9ee47441d40f8c572d45d51435a2912b92f5ab99b3fee4dc981024b8edcb8917"
+  },
+  {
+    "path": "data\\processed\\modelling_dataset.csv",
+    "exists": true,
+    "size_bytes": 507555,
+    "sha256": "4a90697fc7cd45cb29eabddaad916c3626c60b8d79aac974eec789b93dc3fba4"
+  },
+  {
+    "path": "data\\processed\\cmc_quality_wide.csv",
+    "exists": true,
+    "size_bytes": 50365,
+    "sha256": "b9c2ba7e69bd1cf9ec7022f64ad300b1ff546abae267a1d964531da6f4ceb57e"
+  },
+  {
+    "path": "outputs\\master\\tables\\master_build_summary.csv",
+    "exists": true,
+    "size_bytes": 502,
+    "sha256": "46f7fb795e6bca5a3fc983ce8fd5873a90a090717a47ab990a8fa63ed955986e"
+  },
+  {
+    "path": "outputs\\master\\tables\\merge_availability_summary.csv",
+    "exists": true,
+    "size_bytes": 289,
+    "sha256": "2d88d4cd30a35fe74ae854702b0db328e27be07e0f0d5f5e37205ee2e851d9fe"
+  },
+  {
+    "path": "outputs\\master\\tables\\non_full_supervised_rows_audit.csv",
+    "exists": true,
+    "size_bytes": 6680,
+    "sha256": "a31e3a43164146b80a68fcd2c711cceee2466388e73b05a747b1f2e8336ca1fe"
+  },
+  {
+    "path": "outputs\\master\\tables\\production_target_mismatch_audit.csv",
+    "exists": true,
+    "size_bytes": 71,
+    "sha256": "bc43e90acc305e56246858cf19daa288243f47c2c42de01f132da4f446b5ee3f"
+  },
+  {
+    "path": "outputs\\master\\tables\\duplicate_sample_id_rows_audit.csv",
+    "exists": true,
+    "size_bytes": 82,
+    "sha256": "f8605fa855f24a50c7a92490bae6365bd339a6c4691e6f0375cd8319f4bd8df4"
+  },
+  {
+    "path": "outputs\\master\\tables\\target_level_master_coverage.csv",
+    "exists": true,
+    "size_bytes": 2714,
+    "sha256": "a20ceb976ab3e83fea798a9219df86d3890abb97755a637491bbfa280b522154"
+  },
+  {
+    "path": "outputs\\master\\tables\\master_quality_metric_summary.csv",
+    "exists": true,
+    "size_bytes": 542,
+    "sha256": "4a2dfa4fcc01ebc6fdb4daae3a002bcda43bc7da80ab1bba139a66b10b3ea3c9"
+  },
+  {
+    "path": "outputs\\master\\tables\\dye_vector_feature_summary.csv",
+    "exists": true,
+    "size_bytes": 2402,
+    "sha256": "5e1531f781bfffbb680ece7cc809ede1b28b10bd836094a2487690f96849a29e"
+  },
+  {
+    "path": "outputs\\master\\tables\\cmc_duplicate_key_audit.csv",
+    "exists": true,
+    "size_bytes": 75,
+    "sha256": "5cf80595d25caf418105ddac5b3503843b0635cdfdf2d5c1fd12faf6b5622b0c"
+  }
+]

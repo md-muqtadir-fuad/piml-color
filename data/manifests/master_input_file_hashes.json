@@ -1,0 +1,26 @@
+[
+  {
+    "path": "data\\interim\\recipe_cleaned.csv",
+    "exists": true,
+    "size_bytes": 56795,
+    "sha256": "1e1e769f414327b22d83872f789239e11f92b06ab63a31ccc6d0e8ec5e568e70"
+  },
+  {
+    "path": "data\\interim\\cmc_cleaned.csv",
+    "exists": true,
+    "size_bytes": 86027,
+    "sha256": "113c0e8332a795837fc872abcce4e645eb36c41628fe4d8578f7805944b45fe8"
+  },
+  {
+    "path": "data\\interim\\production_cleaned.csv",
+    "exists": true,
+    "size_bytes": 25249,
+    "sha256": "d59643fd1c84b08bb33adc39e0bb28b624387ff4a2bcf3dcce50a84448bba427"
+  },
+  {
+    "path": "data\\interim\\pantone_target_spectra_unique.csv",
+    "exists": true,
+    "size_bytes": 95974,
+    "sha256": "33be969cd556fb665d40a2ad8a23c869940048501f2b9252e882ee1d61388605"
+  }
+]

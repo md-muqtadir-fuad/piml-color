@@ -1,0 +1,26 @@
+[
+  {
+    "path": "data\\raw\\recipe.csv",
+    "exists": true,
+    "size_bytes": 27255,
+    "sha256": "fa960d4d4627feadf1bcdb299b2a8cfebd99e587edcbcd56db4ea29c1e7444ce"
+  },
+  {
+    "path": "data\\raw\\cmc.csv",
+    "exists": true,
+    "size_bytes": 45423,
+    "sha256": "8e4a9e403717421e353f34c62f838ac9a6ab08db8f3ff499027979fe41259280"
+  },
+  {
+    "path": "data\\raw\\production.csv",
+    "exists": true,
+    "size_bytes": 11560,
+    "sha256": "97f7b71bae08aa8fb47f0da745855e1b364fb5610197469d88c4e79eb621db8e"
+  },
+  {
+    "path": "data\\raw\\pantones.csv",
+    "exists": true,
+    "size_bytes": 91507,
+    "sha256": "fad058b0fa466e74433a1691dabd3f026bfaea433b7a69b47cdc771d70976ebe"
+  }
+]

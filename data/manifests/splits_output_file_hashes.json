@@ -1,0 +1,98 @@
+[
+  {
+    "path": "data\\splits\\groupkfold_recipe_no.json",
+    "exists": true,
+    "size_bytes": 49937,
+    "sha256": "6f00a3f0df2afb7410780376ceb97c0d7470e000d8ddc7cfb96387801442017b"
+  },
+  {
+    "path": "data\\splits\\groupkfold_target_id.json",
+    "exists": true,
+    "size_bytes": 49628,
+    "sha256": "b4c4bc1827e42017cda5c80c45f236176c563b778a485f04c5f43097dc91035c"
+  },
+  {
+    "path": "data\\splits\\leave_one_target_out.json",
+    "exists": true,
+    "size_bytes": 504616,
+    "sha256": "c420efe2e33341e4d69f7b52cca4055b45b9045a32256c34d5cba77e7c28b501"
+  },
+  {
+    "path": "data\\splits\\split_row_assignments.csv",
+    "exists": true,
+    "size_bytes": 18417,
+    "sha256": "c7aa0ee4946234cd14d61bcc8d9020c5b4ab7059029acfcc8ecb24ecb5fea4ad"
+  },
+  {
+    "path": "outputs\\splits\\tables\\split_build_summary.csv",
+    "exists": true,
+    "size_bytes": 293,
+    "sha256": "e2128064979dd5ae503c7d9dd301f94ab2fab329e328e26d5dabff1fa6bf7573"
+  },
+  {
+    "path": "outputs\\splits\\tables\\split_fold_summary.csv",
+    "exists": true,
+    "size_bytes": 6391,
+    "sha256": "18fc5f10205bc9c2699275ab25c266f5673b7e79fc2f87047646fc35326a06c0"
+  },
+  {
+    "path": "outputs\\splits\\tables\\leakage_check_summary.csv",
+    "exists": true,
+    "size_bytes": 2217,
+    "sha256": "85df44b3a6c8a9979dea34187a7fccfadb2fb6ba5c7b6c8713bbc06f76ed1ec5"
+  },
+  {
+    "path": "outputs\\splits\\tables\\split_self_check_summary.csv",
+    "exists": true,
+    "size_bytes": 306,
+    "sha256": "5943c82302ef3c1118078a5ad5ca966f688fb6561589ae9b2aae8585e0439cd8"
+  },
+  {
+    "path": "outputs\\splits\\tables\\group_size_summary.csv",
+    "exists": true,
+    "size_bytes": 228,
+    "sha256": "66a8a45207f53336a29a244e9b314718c5dbaf22121a5100dc80d344dc0cc470"
+  },
+  {
+    "path": "outputs\\splits\\tables\\leave_one_target_out_summary.csv",
+    "exists": true,
+    "size_bytes": 2748,
+    "sha256": "37de2b38120151c6ecd0b6eee7a0f0498f1639acbfafc6542d6b075dd10ccb0d"
+  },
+  {
+    "path": "outputs\\splits\\figures\\fold_row_counts_recipe_no.png",
+    "exists": true,
+    "size_bytes": 32274,
+    "sha256": "90d98957f27c8a0c93f6711ecbd93fceb50bcb69f66ee330362b24131876dff2"
+  },
+  {
+    "path": "outputs\\splits\\figures\\fold_row_counts_target_id.png",
+    "exists": true,
+    "size_bytes": 32434,
+    "sha256": "66a9302fb67faa7c0a5b34c8fd253947c2141b81f0fc602f273e93fcd124d702"
+  },
+  {
+    "path": "outputs\\splits\\figures\\fold_dEmax_distribution_recipe_no.png",
+    "exists": true,
+    "size_bytes": 38693,
+    "sha256": "2005eab8c0d7f4cca63d08aa022c87196b200ee5ad9efe7fa046109bb8d159cf"
+  },
+  {
+    "path": "outputs\\splits\\figures\\fold_dEmax_distribution_target_id.png",
+    "exists": true,
+    "size_bytes": 38658,
+    "sha256": "f1a0168c02abcc4d28707954a0bbfdbbb7a7d5146152c617fb24990a367c1273"
+  },
+  {
+    "path": "outputs\\splits\\figures\\group_size_distribution_recipe_no.png",
+    "exists": true,
+    "size_bytes": 38211,
+    "sha256": "a16741b7395d569038c3526a037f596e872792e541732c574ef18cf267b236ea"
+  },
+  {
+    "path": "outputs\\splits\\figures\\group_size_distribution_target_id.png",
+    "exists": true,
+    "size_bytes": 35902,
+    "sha256": "0356952797fd41c1d62d35d56356945bb670baf07ec51f7cce23329cb880ef08"
+  }
+]

@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "piml-color-recipe"
+version = "0.1.0"
+description = "Physics-informed machine learning for textile color recipe recommendation"
+requires-python = ">=3.10"
+authors = [{ name = "PIML Color Recipe Project" }]
+readme = "README.md"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "matplotlib",
+    "pyyaml",
+    "joblib"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

@@ -1,0 +1,37 @@
+# Central path configuration for final reproducible runs.
+project_root: .
+
+data:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  splits: data/splits
+  manifests: data/manifests
+
+outputs:
+  root: outputs
+  logs: outputs/logs
+  text_logs: outputs/logs/text_logs
+  csv_logs: outputs/logs/csv_logs
+  json_run_summaries: outputs/logs/json_run_summaries
+  audit: outputs/audit
+  cleaning: outputs/cleaning
+  master: outputs/master
+  features: outputs/features
+  splits: outputs/splits
+  baselines: outputs/baselines
+  full_ml_benchmark: outputs/full_ml_benchmark
+  apparent_km: outputs/apparent_km
+  residual_ml: outputs/residual_ml
+  multitask_quality: outputs/multitask_quality
+  quantile: outputs/quantile
+  neural_benchmark: outputs/neural_benchmark
+  hybrid_model: outputs/hybrid_model
+  recommendation: outputs/recommendation
+  statistical_tests: outputs/statistical_tests
+  final_tables: outputs/final_tables
+  final_figures: outputs/final_figures
+
+models: models
+scripts: scripts
+reports: reports

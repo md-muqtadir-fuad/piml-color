@@ -1,0 +1,21 @@
+[
+  "dE_d65",
+  "dE_f11",
+  "dE_mean",
+  "dE_max",
+  "dE_min",
+  "metamerism_gap",
+  "metamerism_gap_abs",
+  "met_index_d65",
+  "met_index_f11",
+  "dL_d65",
+  "dL_f11",
+  "da_d65",
+  "da_f11",
+  "db_d65",
+  "db_f11",
+  "dc_csc_d65",
+  "dc_csc_f11",
+  "dh_sh_d65",
+  "dh_sh_f11"
+]

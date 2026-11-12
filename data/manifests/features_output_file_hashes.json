@@ -1,0 +1,50 @@
+[
+  {
+    "path": "data\\processed\\features_all_rows.csv",
+    "exists": true,
+    "size_bytes": 595495,
+    "sha256": "c6e218029f0cb99dc78219b482822d14b062c3a62bc19a5c0682fbfc7c1c67e3"
+  },
+  {
+    "path": "data\\processed\\features_supervised.csv",
+    "exists": true,
+    "size_bytes": 545330,
+    "sha256": "18b85a0492891985251143facf278bf03c192f944703a4b4b2319ad110b574e0"
+  },
+  {
+    "path": "data\\processed\\feature_matrix_unimputed.csv",
+    "exists": true,
+    "size_bytes": 516163,
+    "sha256": "90e3b596a81d550f0eb600764581e2609cf832b463e89d6f9de2cec575f2bb0d"
+  },
+  {
+    "path": "data\\processed\\target_matrix_supervised.csv",
+    "exists": true,
+    "size_bytes": 39052,
+    "sha256": "b976e478d3e336610964498e8ec4653501975194d877d8f24aa8ba7ca0d96a45"
+  },
+  {
+    "path": "data\\processed\\feature_columns.json",
+    "exists": true,
+    "size_bytes": 6854,
+    "sha256": "351e45b497c8a9878534feaabd0b5727c0031efd2834a65930e596462d8d19ac"
+  },
+  {
+    "path": "data\\processed\\feature_sets.json",
+    "exists": true,
+    "size_bytes": 32748,
+    "sha256": "1098463f52670a51b77a60fbbd34f5b85d7553afb069b16b56262ab4f3b22427"
+  },
+  {
+    "path": "data\\processed\\target_columns.json",
+    "exists": true,
+    "size_bytes": 299,
+    "sha256": "4a159911e758df121d9cd5223a1993d7c468ca0c6bb9543dc4c51baf892fc66c"
+  },
+  {
+    "path": "data\\processed\\features_supervised_recipe_mean.csv",
+    "exists": true,
+    "size_bytes": 239151,
+    "sha256": "e71563280bebd2d0b6c42d928a5d8486320cf65e0c6722bb02ced3589c1ef042"
+  }
+]

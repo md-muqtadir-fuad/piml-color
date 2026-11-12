@@ -1,0 +1,104 @@
+sl_no,target_id,recipe_no,kniting_struc1,kniting_struc2,fabric,l2r,modal,viscose,cotton,polyester,lycra,shade,target_id.1,gsm,sample_weight,salt,soda_ash,total_trial
+1,PANTONE 00-0001 TCX,00k0001,22,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 001,,151,15.0,25,6,9
+2,PANTONE 00-0002 TCX,00k0002,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 002,,203,10.0,100,20,7
+3,PANTONE 00-0003 TCX,00k0003,22,rib,rib,1:6,0,0,100,0,0,synthetic shade 003,,150,10.0,100,20,13
+4,PANTONE 00-0003 TCX,00k0004,sj,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 003,,193,10.0,100,20,14
+5,PANTONE 00-0004 TCX,00k0005,,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 004,,198,10.0,15,7,8
+6,PANTONE 00-0005 TCX,00k0006,22,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 005,,243,15.0,30,8,9
+7,PANTONE 00-0005 TCX,00k0007,,single_jersey,lycra single jersey,1:6,0,0,95,0,5,synthetic shade 005,,150,10.0,25,9,6
+8,PANTONE 00-0005 TCX,00k0008,11,single_jersey,lycra single jersey,1:6,0,0,95,0,5,synthetic shade 005,,237,10.0,20,6,9
+9,PANTONE 00-0006 TCX,00k0009,,mesh,mesh,1:6,0,0,100,0,0,synthetic shade 006,,164,15.0,25,7,9
+10,PANTONE 00-0006 TCX,00k0010,,fleece,fleece,1:10,0,0,100,0,0,synthetic shade 006,,174,10.0,25,5,6
+11,PANTONE 00-0007 TCX,00k0011,il,rib,rib,1:8,0,0,100,0,0,synthetic shade 007,,159,10.0,40,8,13
+12,PANTONE 00-0008 TCX,00k0012,,interlock,interlock,1:6,0,0,100,0,0,synthetic shade 008,,150,15.0,55,14,7
+13,PANTONE 00-0008 TCX,00k0013,sj,rib,rib,1:10,0,0,100,0,0,synthetic shade 008,,150,10.0,60,13,8
+14,PANTONE 00-0008 TCX,00k0014,sj,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 008,,189,10.0,55,15,16
+15,PANTONE 00-0009 TCX,00k0015,11,interlock,interlock,1:10,0,0,100,0,0,synthetic shade 009,,154,10.0,30,9,13
+16,PANTONE 00-0010 TCX,00k0016,,interlock,interlock,1:10,0,0,100,0,0,synthetic shade 010,,187,10.0,65,17,9
+17,PANTONE 00-0011 TCX,00k0017,22,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 011,,181,9.5,60,16,10
+18,PANTONE 00-0011 TCX,00k0018,,fleece,fleece,1:10,0,0,100,0,0,synthetic shade 011,,202,10.0,55,16,6
+19,PANTONE 00-0012 TCX,00k0019,sj,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 012,,190,10.0,25,6,7
+20,PANTONE 00-0013 TCX,00k0020,sj,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 013,,193,10.0,30,7,12
+21,PANTONE 00-0013 TCX,00k0021,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 013,,173,10.0,30,8,8
+22,PANTONE 00-0014 TCX,00k0022,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 014,,150,10.0,95,20,15
+23,PANTONE 00-0014 TCX,00k0023,,rib,rib,1:8,0,0,100,0,0,synthetic shade 014,,240,10.0,100,20,13
+24,PANTONE 00-0015 TCX,00k0024,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 015,,227,10.0,20,7,11
+25,PANTONE 00-0016 TCX,00k0025,sj,fleece,fleece,1:6,0,0,100,0,0,synthetic shade 016,,178,9.5,90,20,11
+26,PANTONE 00-0017 TCX,00k0026,sj,single_jersey,single jersey,1:6,0,0,95,0,5,synthetic shade 017,,189,10.0,65,19,21
+27,PANTONE 00-0018 TCX,00k0027,,single_jersey,lycra single jersey,1:6,0,0,95,0,5,synthetic shade 018,,186,10.0,40,10,16
+28,PANTONE 00-0018 TCX,00k0028,sj,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 018,,180,10.0,45,8,8
+29,PANTONE 00-0018 TCX,00k0029,sj,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 018,,197,10.0,40,11,11
+30,PANTONE 00-0019 TCX,00k0030,11,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 019,,150,10.0,55,10,10
+31,PANTONE 00-0019 TCX,00k0031,11,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 019,,206,10.0,45,10,12
+32,PANTONE 00-0020 TCX,00k0032,11,mesh,mesh,1:6,0,0,100,0,0,synthetic shade 020,,212,10.0,60,15,13
+33,PANTONE 00-0020 TCX,00k0033,11,rib,rib,1:6,0,0,100,0,0,synthetic shade 020,,243,10.0,55,14,11
+34,PANTONE 00-0020 TCX,00k0034,sj,rib,lycra rib,1:10,0,0,95,0,5,synthetic shade 020,,199,9.5,70,15,9
+35,PANTONE 00-0021 TCX,00k0035,11,rib,rib,1:10,0,0,100,0,0,synthetic shade 021,,185,10.0,35,8,6
+36,PANTONE 00-0022 TCX,00k0036,,single_jersey,lycra single jersey,1:10,0,0,95,0,5,synthetic shade 022,,150,10.0,85,20,13
+37,PANTONE 00-0022 TCX,00k0037,il,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 022,,209,10.0,80,20,5
+38,PANTONE 00-0023 TCX,00k0038,22,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 023,,208,10.0,45,12,8
+39,PANTONE 00-0023 TCX,00k0039,11,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 023,,150,10.0,55,10,8
+40,PANTONE 00-0024 TCX,00k0040,,single_jersey,single jersey,1:6,0,0,95,0,5,synthetic shade 024,,152,10.0,30,7,6
+41,PANTONE 00-0025 TCX,00k0041,,interlock,interlock,1:10,0,0,100,0,0,synthetic shade 025,,179,10.0,40,13,9
+42,PANTONE 00-0026 TCX,00k0042,22,rib,rib,1:10,0,0,100,0,0,synthetic shade 026,,174,10.0,45,14,8
+43,PANTONE 00-0026 TCX,00k0043,,interlock,interlock,1:10,0,0,100,0,0,synthetic shade 026,,181,10.0,50,12,11
+44,PANTONE 00-0027 TCX,00k0044,,mesh,mesh,1:6,0,0,100,0,0,synthetic shade 027,,254,10.0,75,16,9
+45,PANTONE 00-0028 TCX,00k0045,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 028,,225,10.0,35,6,10
+46,PANTONE 00-0028 TCX,00k0046,,rib,rib,1:6,0,0,100,0,0,synthetic shade 028,,190,10.0,35,7,9
+47,PANTONE 00-0029 TCX,00k0047,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 029,,191,10.0,45,9,12
+48,PANTONE 00-0029 TCX,00k0048,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 029,,183,10.0,55,11,12
+49,PANTONE 00-0030 TCX,00k0049,,rib,rib,1:10,0,0,100,0,0,synthetic shade 030,,190,10.0,15,5,9
+50,PANTONE 00-0031 TCX,00k0050,sj,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 031,,183,10.0,20,5,9
+51,PANTONE 00-0031 TCX,00k0051,,rib,lycra rib,1:10,0,0,95,0,5,synthetic shade 031,,150,10.0,15,6,12
+52,PANTONE 00-0031 TCX,00k0052,22,single_jersey,single jersey,1:6,0,0,95,0,5,synthetic shade 031,,243,10.0,30,7,6
+53,PANTONE 00-0032 TCX,00k0053,sj,rib,lycra rib,1:10,0,0,95,0,5,synthetic shade 032,,170,10.0,15,5,13
+54,PANTONE 00-0033 TCX,00k0054,,rib,rib,1:10,0,0,100,0,0,synthetic shade 033,,171,10.0,50,13,8
+55,PANTONE 00-0033 TCX,00k0055,22,interlock,interlock,1:8,0,0,100,0,0,synthetic shade 033,,150,10.0,55,14,9
+56,PANTONE 00-0034 TCX,00k0056,,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 034,,160,9.5,25,5,10
+57,PANTONE 00-0035 TCX,00k0057,22,single_jersey,lycra single jersey,1:10,0,0,95,0,5,synthetic shade 035,,150,10.0,75,16,13
+58,PANTONE 00-0035 TCX,00k0058,sj,fleece,fleece,1:10,0,0,100,0,0,synthetic shade 035,,210,10.0,60,17,12
+59,PANTONE 00-0035 TCX,00k0059,22,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 035,,150,15.0,60,15,11
+60,PANTONE 00-0036 TCX,00k0060,11,single_jersey,lycra single jersey,1:10,0,0,95,0,5,synthetic shade 036,,188,10.0,40,10,11
+61,PANTONE 00-0036 TCX,00k0061,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 036,,183,10.0,35,9,12
+62,PANTONE 00-0037 TCX,00k0062,sj,interlock,interlock,1:6,0,0,100,0,0,synthetic shade 037,,214,10.0,45,12,10
+63,PANTONE 00-0038 TCX,00k0063,sj,interlock,interlock,1:6,0,0,100,0,0,synthetic shade 038,,202,10.0,100,20,15
+64,PANTONE 00-0038 TCX,00k0064,,rib,rib,1:10,0,0,100,0,0,synthetic shade 038,,161,10.0,100,20,6
+65,PANTONE 00-0039 TCX,00k0065,il,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 039,,174,10.0,65,10,11
+66,PANTONE 00-0039 TCX,00k0066,sj,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 039,,150,10.0,60,13,6
+67,PANTONE 00-0039 TCX,00k0067,il,rib,lycra rib,1:6,0,0,95,0,5,synthetic shade 039,,214,10.0,50,14,7
+68,PANTONE 00-0040 TCX,00k0068,,single_jersey,lycra single jersey,1:6,0,0,95,0,5,synthetic shade 040,,247,10.0,55,12,10
+69,PANTONE 00-0040 TCX,00k0069,sj,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 040,,227,10.0,55,15,10
+70,PANTONE 00-0040 TCX,00k0070,,rib,rib,1:10,0,0,100,0,0,synthetic shade 040,,202,10.0,65,14,8
+71,PANTONE 00-0041 TCX,00k0071,sj,rib,lycra rib,1:6,0,0,95,0,5,synthetic shade 041,,172,10.0,70,15,11
+72,PANTONE 00-0042 TCX,00k0072,,rib,rib,1:10,0,0,100,0,0,synthetic shade 042,,160,10.0,30,9,14
+73,PANTONE 00-0042 TCX,00k0073,il,rib,rib,1:10,0,0,100,0,0,synthetic shade 042,,244,10.0,30,7,15
+74,PANTONE 00-0043 TCX,00k0074,,rib,rib,1:6,0,0,100,0,0,synthetic shade 043,,242,15.0,30,6,5
+75,PANTONE 00-0044 TCX,00k0075,,single_jersey,lycra single jersey,1:10,0,0,95,0,5,synthetic shade 044,,186,10.0,85,20,8
+76,PANTONE 00-0045 TCX,00k0076,sj,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 045,,168,15.0,80,17,10
+77,PANTONE 00-0046 TCX,00k0077,il,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 046,,168,10.0,40,12,9
+78,PANTONE 00-0046 TCX,00k0078,,interlock,interlock,1:10,0,0,100,0,0,synthetic shade 046,,172,15.0,40,9,10
+79,PANTONE 00-0047 TCX,00k0079,11,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 047,,150,10.0,30,8,9
+80,PANTONE 00-0047 TCX,00k0080,,rib,rib,1:10,0,0,100,0,0,synthetic shade 047,,150,10.0,35,11,14
+81,PANTONE 00-0047 TCX,00k0081,,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 047,,169,10.0,30,8,19
+82,PANTONE 00-0048 TCX,00k0082,22,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 048,,193,9.5,30,7,10
+83,PANTONE 00-0049 TCX,00k0083,,fleece,fleece,1:8,0,0,100,0,0,synthetic shade 049,,193,10.0,30,5,11
+84,PANTONE 00-0050 TCX,00k0084,,interlock,interlock,1:6,0,0,100,0,0,synthetic shade 050,,189,10.0,25,5,15
+85,PANTONE 00-0051 TCX,00k0085,sj,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 051,,239,10.0,25,8,12
+86,PANTONE 00-0052 TCX,00k0086,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 052,,224,10.0,35,9,5
+87,PANTONE 00-0053 TCX,00k0087,,interlock,interlock,1:6,0,0,100,0,0,synthetic shade 053,,195,9.5,70,17,9
+88,PANTONE 00-0054 TCX,00k0088,sj,rib,rib,1:10,0,0,100,0,0,synthetic shade 054,,170,9.5,30,9,22
+89,PANTONE 00-0054 TCX,00k0089,,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 054,,202,10.0,25,7,5
+90,PANTONE 00-0054 TCX,00k0090,,interlock,interlock,1:6,0,0,100,0,0,synthetic shade 054,,208,10.0,20,7,9
+91,PANTONE 00-0055 TCX,00k0091,,single_jersey,lycra single jersey,1:6,0,0,95,0,5,synthetic shade 055,,151,10.0,50,13,11
+92,PANTONE 00-0056 TCX,00k0092,,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 056,,163,10.0,65,13,8
+93,PANTONE 00-0057 TCX,00k0093,11,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 057,,177,10.0,90,20,7
+94,PANTONE 00-0057 TCX,00k0094,22,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 057,,211,10.0,95,20,6
+95,PANTONE 00-0057 TCX,00k0095,sj,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 057,,207,10.0,95,20,10
+96,PANTONE 00-0058 TCX,00k0096,11,single_jersey,lycra single jersey,1:10,0,0,95,0,5,synthetic shade 058,,175,10.0,70,17,5
+97,PANTONE 00-0059 TCX,00k0097,11,fleece,fleece,1:6,0,0,100,0,0,synthetic shade 059,,233,10.0,40,13,10
+98,PANTONE 00-0060 TCX,00k0098,sj,single_jersey,single jersey,1:10,0,0,100,0,0,synthetic shade 060,,200,10.0,20,7,16
+99,PANTONE 00-0061 TCX,00k0099,,single_jersey,lycra single jersey,1:10,0,0,95,0,5,synthetic shade 061,,257,10.0,20,5,7
+100,PANTONE 00-0062 TCX,00k0100,11,mesh,mesh,1:6,0,0,100,0,0,synthetic shade 062,,252,10.0,25,8,12
+101,PANTONE 00-0063 TCX,00k0101,22,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 063,,195,10.0,35,7,12
+102,PANTONE 00-0063 TCX,00k0102,22,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 063,,195,10.0,35,7,12
+103,PANTONE 00-0063 TCX,00k0103,22,single_jersey,single jersey,1:6,0,0,100,0,0,synthetic shade 063,,195,10.0,35,7,12
