@@ -1,0 +1,49 @@
+{
+  "title": "A Physics-Informed Hybrid Inverse Machine Learning Framework for High-Dimensional Sparse Recipe Reconstruction: code and synthetic data",
+  "upload_type": "software",
+  "description": "<p>Code for the manuscript <em>A Physics-Informed Hybrid Inverse Machine Learning Framework for High-Dimensional Sparse Recipe Reconstruction</em>: the data pipeline, the Kubelka-Munk physics module and the inverse recipe experiments.</p><p>The industrial records used in the paper are under a non-disclosure agreement and are not included. The repository contains a synthetic dataset with the same raw-file layout, so the whole pipeline runs; results on it do not reproduce the numbers in the paper.</p>",
+  "creators": [
+    {
+      "name": "Fuad, Md. Muqtadir",
+      "affiliation": "Institute of Appropriate Technology, Bangladesh University of Engineering and Technology (BUET)",
+      "orcid": "0009-0009-4362-0780"
+    },
+    {
+      "name": "Adnan, Md. Istiak",
+      "affiliation": "Department of Industrial and Production Engineering, Bangladesh University of Engineering and Technology (BUET)",
+      "orcid": "0009-0006-8283-6021"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Rahman, Md. Atiqur",
+      "affiliation": "Department of Industrial and Production Engineering, Bangladesh University of Engineering and Technology (BUET)",
+      "type": "Supervisor"
+    },
+    {
+      "name": "Al Aziz, Ridwan",
+      "affiliation": "Department of Industrial and Production Engineering, Bangladesh University of Engineering and Technology (BUET)",
+      "orcid": "0000-0002-5871-5629",
+      "type": "Supervisor"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "inverse recipe prediction",
+    "Kubelka-Munk",
+    "physics-informed machine learning",
+    "sparse inverse problems",
+    "reactive dyeing",
+    "color matching",
+    "uncertainty quantification"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.48550/arXiv.2610.14097",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    }
+  ],
+  "access_right": "open"
+}

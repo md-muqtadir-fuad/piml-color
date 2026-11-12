@@ -7,7 +7,8 @@ name = "piml-color-recipe"
 version = "0.1.0"
 description = "Physics-informed machine learning for textile color recipe recommendation"
 requires-python = ">=3.10"
-authors = [{ name = "PIML Color Recipe Project" }]
+authors = [{ name = "Md. Muqtadir Fuad" }, { name = "Md. Istiak Adnan" }]
+license = { text = "MIT" }
 readme = "README.md"
 dependencies = [
     "numpy",

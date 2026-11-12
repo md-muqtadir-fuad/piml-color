@@ -82,3 +82,7 @@ Md. Muqtadir Fuad, Md. Istiak Adnan, Md. Atiqur Rahman and Ridwan Al Aziz. *A Ph
   url           = {https://arxiv.org/abs/2610.14097}
 }
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
